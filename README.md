@@ -29,10 +29,11 @@
 
 * Linuxディストリビューション
 <br>https://ja.wikipedia.org/wiki/Linux%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%AA%E3%83%93%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3
+<br>爆発的に様々なディストリビューションが現れたことが分かりますね。
 
 * Linuxディストリビューションの系統図 - GIGAZINE
 <br>https://gigazine.net/news/20060827_linux_distributions/
-
+<br>主要どころは、こんなところか。
 
 ## 【３】三大ディストリビューション
 それぞれ、パッケージ管理に特徴があります。
