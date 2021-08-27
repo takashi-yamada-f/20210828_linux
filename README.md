@@ -3,7 +3,7 @@
 ## 【１】Linuxの出現
 
 * Linux用語事典 [UNIX]
-<br>https://atmarkit.itmedia.co.jp/aig/03linux/unix.htmlbr
+<br>https://atmarkit.itmedia.co.jp/aig/03linux/unix.html
 <br>まずは、Linuxの原型になったUnixについてから。
 
 * 【入門】BSDとSystemVの違い
