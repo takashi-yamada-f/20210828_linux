@@ -19,12 +19,21 @@
 <br>https://atmarkit.itmedia.co.jp/aig/03linux/linux.html
 <br>Linuxカーネルを使っているものが、Linuxになります。
 
+## 【２】シェル
+カーネルの話が出たので、横道にそれて、シェルの話を。
+
+* 【初心者向けにざっくりと】Linuxでよく聞くシェルとは？
+<br>https://eng-entrance.com/linux-shell
+
 * 【10分でわかるかもしれない】シェル（shell）とは？ | CCT-recruit
 <br>https://recruit.cct-inc.co.jp/tecblog/os/shell/
 
-## 【２】Linuxディストリビューション
+* Unixシェル - Wikipedia
+<br>https://ja.wikipedia.org/wiki/Unix%E3%82%B7%E3%82%A7%E3%83%AB
 
-<br>Linuxカーネルだけでは何もできない。シェルや色々なソフトウェアがあって、はじめてOSとして機能します。
+
+## 【３】Linuxディストリビューション
+Linuxカーネルだけでは何もできない。シェルや色々なソフトウェアがあって、はじめてOSとして機能します。
 <br>そうしたセットがディストリビューションです。
 
 * Linuxディストリビューション
@@ -35,7 +44,7 @@
 <br>https://gigazine.net/news/20060827_linux_distributions/
 <br>主要どころは、こんなところか。
 
-## 【３】三大ディストリビューション
+## 【４】三大ディストリビューション
 それぞれ、パッケージ管理に特徴があります。
 
 * Red Hat Enterprise Linux - Wikipedia
@@ -54,7 +63,8 @@
 <br>https://eng-entrance.com/linux-package-yum
 <br>CentOS8からは、yumの進化版dnfが導入され、それでパッケージを行います。
 
-## 【４】VagrantでCentOS8環境を作ってみる
+## 【５】VagrantでCentOS8環境を作ってみる
+Linuxを勉強がてら、動かしてみたいという人向けに。
 
 * (Windows) VagrantでCentOS8を構築してSSH接続する  |  ポケットコード
 <br>https://pocketcode.net/virtualbox-vagrant-centos8
@@ -65,7 +75,7 @@
 * dnfコマンドの使い方 - Qiita
 <br>https://qiita.com/hana_shin/items/25f8f4167666cb7fa5b9
 
-## 【５】最近のTOPIC
+## 【６】最近のTOPIC
 
 * Amazon Linux は何系のディストリビューションに該当するのか AWS導入開発支援
 <br>https://www.acrovision.jp/service/aws/?p=653
@@ -73,7 +83,7 @@
 
 * CentOS Streamへのシフトでうろたえないための手引き
 <br>https://zenn.dev/koduki/articles/26eb2df8109a39
-<br>まだ、身の回りに事例がない。Awsなども合わせて、動向を注視したほうがよいかも。
+<br>オンプレ環境が少なくなったせいか？まだ身の回りに事例がない。動向を注視したほうがよいかも。
 
 # Porxyについて
 
